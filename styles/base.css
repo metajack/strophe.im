@@ -1,5 +1,15 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
 #header {
     height: 39px;
     background-color: #444;
-    padding: 15px;
+    padding: 15px 15px 15px 40px;
+}
+
+#body {
+    padding: 20px;
+    margin: 20px;
 }
