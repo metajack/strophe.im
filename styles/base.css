@@ -11,6 +11,12 @@ a, a:visited {
 a:hover, a:active {
   color: #58a9c9; }
 
+ul {
+  margin-left: 0;
+  padding-left: 1.5em;
+  position: relative;
+  left: -1.5em; }
+
 #container {
   width: 720px;
   margin: 0 auto 0 auto; }
@@ -30,8 +36,8 @@ a:hover, a:active {
     font-size: 27px;
     line-height: 1; }
   #content h2 {
-    font-size: 24px;
-    line-height: 1.125; }
-  #content h3 {
     font-size: 21px;
     line-height: 1.286; }
+  #content h3 {
+    font-size: 18px;
+    line-height: 1.5; }

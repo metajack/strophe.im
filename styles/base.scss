@@ -17,6 +17,13 @@ a:hover, a:active {
     color: #58a9c9;
 }
 
+ul {
+    margin-left: 0;
+    padding-left: 1.5em;
+    position: relative;
+    left: -1.5em;
+}
+
 #container {
     width: 720px;
     margin: 0 auto 0 auto;
@@ -48,13 +55,13 @@ a:hover, a:active {
     }
 
     h2 {
-        $size: 24px;
+        $size: 21px;
         font-size: $size;
         line-height: $rhythm / $size;
     }
 
     h3 {
-        $size: 21px;
+        $size: 18px;
         font-size: $size;
         line-height: $rhythm / $size;
     }
