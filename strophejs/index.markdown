@@ -9,7 +9,7 @@ to enable web-based, real-time XMPP applications that run in any browser.
 
 # Quick Links
 
-* [Latest documentation](doc/latest)
+* [Latest documentation](doc/1.0.1)
 * [GitHub project page](https://github.com/metajack/strophejs)
 * [Mailing list](http://groups.google.com/group/strophe)
 * [Bug tracker](https://github.com/metajack/strophejs/issues)
@@ -44,7 +44,7 @@ The following tutorials may help you get started:
 
 The official API documentation can be found below:
 
-[Strophe.js API Documentation](docs/latest)
+[Strophe.js API Documentation](docs/1.0.1)
 
 The book [Professional XMPP Programming with JavaScript and
 jQuery](http://professionalxmpp.com) is also available which covers
