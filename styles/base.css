@@ -1,15 +1,37 @@
 body {
-    padding: 0;
-    margin: 0;
-}
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.5; }
+
+a, a:visited {
+  color: #44839c;
+  text-decoration: none;
+  border-bottom: 1px solid #b4b4b4; }
+
+a:hover, a:active {
+  color: #58a9c9; }
+
+#container {
+  width: 720px;
+  margin: 0 auto 0 auto; }
 
 #header {
-    height: 39px;
-    background-color: #444;
-    padding: 15px 15px 15px 40px;
-}
+  border-bottom: solid 4px #000; }
+  #header h1 {
+    font-size: 72px;
+    line-height: 81px; }
+  #header p.subtitle {
+    font-size: 27px;
+    line-height: 1; }
 
-#body {
-    padding: 20px;
-    margin: 20px;
-}
+#content {
+  margin-top: 2em; }
+  #content h1 {
+    font-size: 27px;
+    line-height: 1; }
+  #content h2 {
+    font-size: 24px;
+    line-height: 1.125; }
+  #content h3 {
+    font-size: 21px;
+    line-height: 1.286; }

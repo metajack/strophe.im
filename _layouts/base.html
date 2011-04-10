@@ -1,19 +1,23 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ page.title }}</title>
+    <title>{{ page.title }}{% if page.subtitle %} - {{ page.subtitle }}{% endif %}</title>
 
-    <link rel='stylesheet' href='styles/base.css'>
+    <link href='styles/base.css' rel='stylesheet'>
   </head>
-  <body>
-    <div id='header'>
-      <a href='/'>
-        <img src='images/logo.png' width='240' height='39'
-             alt='strophe logo'>
-      </a>
-    </div>
 
-    <div id='body'>
-      {{ content }}
+  <body>
+    <div id='container'>
+      <div id='header'>
+        <h1>{{ page.title }}</h1>
+        {% if page.subtitle %}
+        <p class='subtitle'>{{ page.subtitle }}</p>
+        {% endif %}
+      </div>
+
+      <div id='content'>
+        {{ content }}
+      </div>
     </div>
+  </body>
 </html>
