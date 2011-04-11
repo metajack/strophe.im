@@ -44,7 +44,7 @@ The following tutorials may help you get started:
 
 The official API documentation can be found below:
 
-[Strophe.js API Documentation](docs/1.0.1)
+[Strophe.js API Documentation](doc/1.0.1)
 
 The book [Professional XMPP Programming with JavaScript and
 jQuery](http://professionalxmpp.com) is also available which covers
