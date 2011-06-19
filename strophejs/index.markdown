@@ -9,7 +9,7 @@ to enable web-based, real-time XMPP applications that run in any browser.
 
 # Quick Links
 
-* [Latest documentation](doc/1.0.1)
+* [Latest documentation](doc/1.0.2)
 * [GitHub project page](https://github.com/metajack/strophejs)
 * [Mailing list](http://groups.google.com/group/strophe)
 * [Bug tracker](https://github.com/metajack/strophejs/issues)
@@ -19,10 +19,10 @@ to enable web-based, real-time XMPP applications that run in any browser.
 
 ## Official releases
 
-The latest release is **1.0.1**.
+The latest release is **1.0.2**.
 
-* [strophejs-1.0.1.tar.gz](https://github.com/downloads/metajack/strophejs/strophejs-1.0.1.tar.gz)
-* [strophejs-1.0.0.zip](https://github.com/downloads/metajack/strophejs/strophejs-1.0.1.zip)
+* [strophejs-1.0.2.tar.gz](https://github.com/downloads/metajack/strophejs/strophejs-1.0.2.tar.gz)
+* [strophejs-1.0.2.zip](https://github.com/downloads/metajack/strophejs/strophejs-1.0.2.zip)
 
 Older releases can be found on the [project downloads page](https://github.com/metajack/strophejs/downloads).
 
@@ -44,7 +44,7 @@ The following tutorials may help you get started:
 
 The official API documentation can be found below:
 
-[Strophe.js API Documentation](doc/1.0.1)
+[Strophe.js API Documentation](doc/1.0.2)
 
 The book [Professional XMPP Programming with JavaScript and
 jQuery](http://professionalxmpp.com) is also available which covers
