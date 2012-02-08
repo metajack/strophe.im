@@ -11,6 +11,7 @@ systems.
 
 # Quick Links
 
+* [Latest documentation](doc/0.8-snapshot)
 * [GitHub project page](https://github.com/metajack/libstrophe)
 * [Mailing list](http://groups.google.com/group/libstrophe)
 * [Bug tracker](https://github.com/metajack/libstrophe/issues)
